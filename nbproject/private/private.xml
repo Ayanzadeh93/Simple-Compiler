@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Parser/Parser.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Lexer/Tag.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Lexer/Lexer.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Main/Postfix.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Lexer/Token.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Lexer/Word.java</file>
+            <file>file:/C:/Users/Masoud/Documents/NetBeansProjects/compiler-project/src/Lexer/Num.java</file>
+        </group>
+    </open-files>
+</project-private>
